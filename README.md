@@ -43,3 +43,9 @@ serverless deploy
 If you have any issues, comments or want to see new features, please file an issue in the project repository:
 
 https://github.com/serverless/serverless-openwhisk
+
+#UI Setup
+
+cd to ywhisper-web
+run npm-install
+run ng serve --open
