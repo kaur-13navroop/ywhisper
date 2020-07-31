@@ -1,8 +1,4 @@
-# Serverless OpenWhisk Node.js Template
-
-Hello! 😎
-
-This is a template Node.js service for the OpenWhisk platform. Before you can deploy your service, please follow the instructions below…
+# YWhisper
 
 ### Have you set up your account credentials?
 
@@ -38,12 +34,6 @@ Use the `serverless` command to deploy your service. The sample `handler.js` fil
 serverless deploy
 ```
 
-### Issues / Feedback / Feature Requests?
-
-If you have any issues, comments or want to see new features, please file an issue in the project repository:
-
-https://github.com/serverless/serverless-openwhisk
-
 # UI Setup
 
 ```
@@ -72,3 +62,5 @@ $ npm install twilio
 ```
 $ node send_sms.js
 ```
+
+To read about the future roadmap of YWhisper, click [here](https://github.com/kaur-13navroop/ywhisper/blob/master/Future_Roadmap.pdf)
