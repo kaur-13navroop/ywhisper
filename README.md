@@ -60,6 +60,15 @@ $ run ng serve --open
 
 # Trigger SMS Notification
 
+Prerequistes:
+1. node.js
+2. npm
 ```
-$ node sms_demo/send_sms.js
+$ cd sms_demo
+```
+```
+$ npm install twilio
+```
+```
+$ node send_sms.js
 ```
