@@ -46,8 +46,14 @@ https://github.com/serverless/serverless-openwhisk
 
 # UI Setup
 
-cd to ywhisper-web
+```
+$ cd to ywhisper-web
+```
 
-run npm-install
+```
+$ run npm-install
+```
 
-run ng serve --open
+```
+$ run ng serve --open
+```
