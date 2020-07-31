@@ -57,3 +57,9 @@ $ run npm-install
 ```
 $ run ng serve --open
 ```
+
+# Trigger SMS Notification
+
+```
+$ node sms_demo/send_sms.js
+```
